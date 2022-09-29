@@ -1,0 +1,6 @@
+ls; ps ; path
+alias ued='echo $PATH:./bin'; ued
+pwd; cd; pwd ;
+omg; cal 2018 | grep March
+myhistory;
+echo goodluck
